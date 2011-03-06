@@ -1,0 +1,203 @@
+Hey, Roberta, überall sehe ich Artikel über dieses neue Ding auftauchen.
+
+Welches Ding, Frank?
+
+Etwas was sich "verteiltes soziales Netz" nennt. Ich weiß was soziale Netze sind...
+
+Das sind Seiten wie Facebook, Twitter und MySpace.
+
+Aber was ist das Tolle an "verteilt"? Ich habe doch Freunde von überall...
+
+Das "verteilt" bezieht sich darauf, wo Deine Daten wohnen. Und das Tolle ist,
+dass Du in einem verteilten Netzwerk die Kontrolle hast.
+
+Kannst Du mir das mal auf Deutsch erklären?
+
+Ich beschreibe Dir mal, wie ein typisches soziales Netz funktioniert. Wir nennen es...
+
+Hmm, was ist mit...
+
+Friendcenter!
+
+Nicht sehr kreativ, aber OK.
+
+Sagen wir Dein Freund Tuan erstellt eine Nachricht auf Friendcenter.
+
+Seine Nachricht geht zu dem Server von Friendcenter.
+
+Whoa, das ist mir zu technisch. Was genau ist ein Server?
+
+Einfach ein riesiger Computer (oder ein Verbund von Computern), der gigantische
+Datenmengen speichert. Er wird "Server" genannt, denn...
+
+...wenn Du den Server um Informationen fragst, dann geht er in seine "Datenküche"
+und "serviert" Dir die Daten.
+
+OK, das habe ich verstanden. Also Tuan postet eine Nachricht und diese geht
+zu Friendcenters Server.
+
+Wenn Du Dich nun auf Friendcenter einloggst...
+
+Sieht der Server dass Tuan sich in Deiner Freundesliste befindet.
+
+Und liefert Dir Tuans Nachricht.
+
+Die Illusion ist, dass Du direkt mit Tuan und all Deinen Freunden verbunden bist.
+
+In Wirklichkeit verwaltet der zentrale Server all Deine Interaktion.
+
+Ah, und wie unterscheiden sich diese verteilten sozialen Netzwerke davon?
+
+Bei einem verteilten Netz gibt's keine Illusion.
+
+Du und Tuan haben ihre eigenen Server.
+
+Tuan postet seine Nachricht und sie geht geht an seinen Server, nicht an einen
+zentralen Server.
+
+Eure Server kommunizieren direkt miteinander.
+
+So dass Du Tuans Post siehst, wenn Du auf Deinen Server zugreifst.
+
+Was ist denn, wenn ich im Haus von meinem Cousin George bin? Wie komme ich an
+meine Informationen?
+
+Du greifst auf Deinen Server aus dem Netz aus zu. Das kannst Du von überall dort
+aus tun, wo Du eine Internetverbindung hast.
+
+Deine Daten sind nicht zentralisiert -- sie sind unter allen Nutzern und Servern
+verteilt.
+
+Und das ist der Grund, warum sie es ein verteiltes soziales Netz nennen.
+
+Genau! In einem verteilten sozialen Netz werden die Daten nicht auf einem
+einzigen Firmenserver gespeichert. Es gibt keine einzelne Firma, die die Kontrolle
+hat.
+
+Gibt es noch mehr Vorteile?
+
+Zunächst mal gibt es mehr Privatsphäre. Ein zentralisiertes soziales Netz
+gibt Dir unter Umständen nur ein paar Ebenen von Privatsphäre.
+
+Wenn Du Deine eigenen Gruppen von Freunden einrichten möchtest, dann kannst Du
+das nicht.
+
+Friendcenter kann übrigens auch jederzeit seine Privatsphäre-Richtlinien ändern...
+
+...und so Informationen über Dich preisgeben, die Du für Dich behalten möchtest.
+
+Ja, ich erinnere mich. 2010 hat eines der großen sozialen Netzwerke seine
+Privatsphäre-Einstellungen gelockert.
+
+Die Leute waren nicht sehr glücklich darüber.
+
+Bei einem verteilten sozialen Netzwerk kannst Du Dir Deine eigenen Gruppen
+einrichten, weil es Dein Server ist. Und die Privatsphäre-Richtlinien ändern
+sich nur, wenn Du es willst.
+
+Das heißt die Leute aus Deinem Bowling-Team müssen keine Nachrichten bekommen,
+die sich um Dinge im Büro drehen...
+
+Außerdem behältst Du die Kontrolle über Deine Daten, sie bleiben auf Deinem Server.
+
+Oh, aber ich behalte schon Kopien von all meinen Bildern auf meiner Festplatte.
+
+Du wärst überrascht, wie viele Leute das nicht tun. Wie auch immer, wenn Du ein
+Foto zu einem zentralisierten sozialen Netzwerk hochlädst, dann wird es auf
+ihrem Server gespeichert.
+
+Und das heißt, dass Deine Daten ihren Nutzungsbedingungen unterliegen. Schau Dir
+das mal an:
+
+  Du gibst uns eine nicht-exklusive, übertragbare, unterlizenzierbare,
+  unentgeltliche, weltweite Lizenz für die Nutzung jeglicher IP-Inhalte, die du
+  auf oder im Zusammenhang mit FriendCenter postest.
+
+Wow, das wusste ich gar nicht. Da bekommt "Was mir gehört, gehört auch Dir" ja
+eine völlig neue Bedeutung.
+
+Bei verteilten sozialen Netzwerken gehört das was Dir gehört weiterhin Dir.
+
+Moment mal, dieser Artikel hier sagt, dass die meisten dieser verteilten sozialen
+Netzwerke "open source" sind. Heißt das, dass all meine Daten öffentlich sind?
+
+"Open source" heißt nur, dass die Software, die den Server betreibt, frei verfügbar
+ist, so dass Du sie Dir anschauen kannst.
+
+Dann kannst Du sehen, wie die Software geschrieben wurde und wie sie
+funktioniert.
+
+Nun, da ich kein Programmierer bin besteht nicht die Gefahr, dass ich daran
+herumbastle.
+
+Da Deine Bilder und Nachrichten kein Teil der Software sind, gehören Deine
+Daten noch immer Dir.
+
+Also verteilte soziale Netzwerke decken Privatsphäre und Datenbesitz ab. Wie
+sieht's mit Sicherheit aus, nun wo ich keinen Mittelmann mehr habe, der sich
+darum kümmert?
+
+Die Software verschlüsselt sämtlichen Verkehr zwischen den Servern.
+
+Das hält die bösen Kerle davon ab, sich Deine Daten zu besorgen.
+
+Was ist mit den sozialen Netzwerke die ich jetzt benutze? Ich kann nicht leben ohne
+Farm Wars und Mafiaville und...
+
+Dafür ist gesorgt. Du musst Deine derzeitigen sozialen Netze nicht aufgeben,
+da Dienste wie Facebook und Twitter Programmen erlauben ihre Daten zu lesen...
+
+...und Dein Server wird in der Lage sein, auf Deine Daten auf derzeitigen
+sozialen Netzen zuzugreifen.
+
+Und diese werden auch in der Lage sein, die Daten von Deinem Server zu
+integrieren.
+
+Aber natürlich nur, wenn Du ihnen das erlaubst.
+
+Das hört sich großartig an. Aber wie kommt es, dass ich davon noch nicht früher
+gehört habe?
+
+Die meisten der Projekte waren bisher recht klein...
+
+Aber im Sommer 2010 hat ein Projekt namens Diaspora die Vorstellungen der
+Leute beflügelt.
+
+Deswegen siehst Du nun auch all diese Artikel.
+
+Kann ich diese verteilten sozialen Netzwerke denn jetzt sofort nutzen?
+
+Einige Projekte sind noch in der Planungsphase.
+
+Andere werden gerade umgesetzt.
+
+Und in einige kann man bereits einziehen.
+
+Kann ich denn nicht einfach zu einer Webseite gehen und mein Computer wird
+-schwups- ein Server?
+
+Nein, es ist vorzuziehen einen zweiten Computer als Server einzurichten.
+
+Das benötigt etwas Arbeit, aber es ist eine angemessene Option für Leute,
+die diesen Pioniergeist haben.
+
+Nun, ich bin kein technisches Genie. Was für eine Wahl habe ich dann?
+
+Einige Projekte entwickeln gerade Computer von der Größe eines
+Steckdosensteckers...
+
+...der die Software bereits installiert hat, um als Server für dezentralisierte
+soziale Netzwerke zu dienen.
+
+Zum Beispiel Freedom Box und FooPlug.
+
+Fooplug? Das muss irgendein Techniker gewesen sein, der sich den Namen
+ausgedacht hat!
+
+Aber es klingt interessant und ich werde definitiv ein Auge darauf behalten.
+Nur eine Sache noch...
+
+Roberta, wenn Du anfängst verteilte soziale Netzwerke zu benutzen... schickst
+Du mir eines Freundschaftseinladung?
+
+Abgemacht, Frank.
