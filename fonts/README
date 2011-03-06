@@ -1,0 +1,11 @@
+This directory contains the fonts used for the comic.
+
+Driftjunky13 is sampled from Bruce Mercado's handwriting;
+the .sfd file is the FontForge input file.
+
+123Marker is a free font from http://www.123dev.net/ and is used for the
+writing on the whiteboard.
+
+Liberation Sans is used for the "background" text (on the servers and network diagrams).
+
+Liberation Serif is used for the "legalese" on page 8.

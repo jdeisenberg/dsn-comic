@@ -1,0 +1,48 @@
+This repository contains files for creating the comic
+"What is a Distributed Social Network?"
+
+original_script_10_10_03b.pdf
+-----------------------------
+The original script for the comic, here for historical purposes.
+
+pencilscans
+-----------
+Scans of the original penciling artwork.
+
+base-jpg
+--------
+Colored and inked files that contain no text.
+
+dsn-comic.po
+------------
+Contains strings extracted from the SVG files in
+the en-US directory (q.v.)
+
+make_pdf.sh
+-----------
+A bash script to construct the PDF file and JPG files
+for each individual page. It depends upon Inkscape to
+do the conversion to individual PDF and PNG files,
+ImageMagick to do the conversion from PNG to JPG,
+and pdftk (http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)
+to create the large PDF file. You must cd to one
+of the localized directories such as en-US when you
+run this script.
+
+fonts
+-----
+Fonts used to create the comic. See that directory for
+its README file.
+
+en-US and de-DE
+---------------
+Contain the SVG files used to construct the PDF for
+the corresponding language version, individual JPG files,
+and dsn-comic.pdf (the large result file)
+
+website-en-US
+-------------
+Source for the website at http://dsn-test.com/comic. In order
+to save space, it does *not* include the dsn-comic.pdf file,
+which is found in the en-us directory (q.v.)
+
