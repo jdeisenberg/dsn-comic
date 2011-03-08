@@ -28,27 +28,32 @@ modify the artwork for your audience? You can do that, because:
 what the license lets you do</a>.)
 
 <h3>Where do I find the files?</h3>
+<p>
+Get the files at
+<code>git://github.com/jdeisenberg/dsn-comic.git</code>
+(If you don&#8217;t have <code>git</code>, 
+you can download it from <a href="http://git-scm.com/"><code>git</code></a>).
+</p>
+
+<p>Once you have gotten the files, you&#8217;ll find these
+subdirectories and files.</p>
 <ul>
-<li>You can find scans of the original pencil art in the
-<a href="pencilscans/"><samp>pencilscans</samp></a> directory.</li>
-<li>The colored and inked files are in the
-<a href="colored-inked"><samp>colored-inked</samp></a> directory.</li>
-<li>The files used to create the comic are in the
-<a href="source-files/"><samp>source-files</samp></a> directory.
-	<ul>
-	<li>The files ending in <samp>.svg</samp> are in 
-SVG format, and you can use 
-<a href="http://inkscape.org/">Inkscape</a> to edit them.</li>
-	<li>The font for the comic is in the file
-	<a href="source-files/Driftjunky13_alpha.ttf"><samp>Driftjunky13_alpha.ttf</samp></a>
-	</li>
-	<li>I used the script
-	<a href="source-files/make_pdf.sh"><samp>make_pdf.sh</samp></a> to create the PDF
-	file. It uses Inkscape to convert each SVG file to PDF, and then uses
-	<a href="http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/">pdftk</a> (the PDF toolkit)
-	to combine the PDF files into one large file.</li>
-	</ul>
-</li>
+<li>Scans of the original pencil art are in the <samp>pencilscans</samp>
+directory.</li>
+<li>The colored/inked illustrations without any text on them are in
+the <samp>base-jpg</samp> directory.</li>
+<li>The SVG files that have the text and embedded images are in
+directories for each localization, such as
+<samp>en-US</samp> or <samp>de-DE</samp>.</li>
+<li>The fonts used in the comic are in the <samp>fonts</code> directory.</li>
+<li>The <samp>make_pdf.sh</samp> file builds the main PDF. It uses 
+<a href="http://inkscape.org">Inkscape</a> to convert each SVG file to PDF,
+and then uses
+<a href="http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/">pdftk</a> (the PDF toolkit)
+to combine the PDF files into one large file.</li>
+<li>The <samp>dsn-comic.po</samp> file contains strings extracted from the
+SVG files. I&#8217;m not sure how easy it will be to translate from those strings,
+given that they don&#8217;t fit into some nice rectangular window.</li>
 </ul>
 <p><a href="index.html">Back to main page</a></p>
 

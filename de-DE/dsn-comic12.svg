@@ -28,13 +28,13 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1280"
-   inkscape:window-height="976"
+   inkscape:window-width="1024"
+   inkscape:window-height="710"
    id="namedview4121"
    showgrid="false"
    inkscape:zoom="1"
    inkscape:cx="458.50365"
-   inkscape:cy="555.28399"
+   inkscape:cy="650.88399"
    inkscape:window-x="-3"
    inkscape:window-y="-3"
    inkscape:window-maximized="1"
@@ -115,11 +115,11 @@
    width="327.13147"
    height="34.319458"
    id="rect4010" /><rect
-   style="fill:#ffffff;stroke:#000000;stroke-width:2.73025703"
-   x="430.38162"
-   y="414.01062"
-   width="196.40674"
-   height="93.519737"
+   style="fill:#ffffff;stroke:#000000;stroke-width:2.95733333"
+   x="430.49515"
+   y="414.12415"
+   width="197.17966"
+   height="109.29266"
    id="rect4012" /><rect
    style="fill:#ffffff;stroke:#000000;stroke-width:2.70075798"
    x="558.60883"
@@ -155,6 +155,7 @@
      id="tspan4070"
      x="140"
      y="47">Kann ich diese verteilten</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -165,6 +166,7 @@
      id="tspan4074"
      x="144"
      y="64">sozialen Netzwerke denn</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -175,6 +177,7 @@
      id="tspan4078"
      x="167"
      y="81">jetzt sofort nutzen?</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -185,6 +188,7 @@
      id="tspan4082"
      x="548.99133"
      y="54">Einige Projekte</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -195,6 +199,7 @@
      id="tspan4086"
      x="545.96088"
      y="71.5">sind noch in der</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -204,7 +209,8 @@
      sodipodi:role="line"
      id="tspan4090"
      x="549.91748"
-     y="89">Plannungsphase.</tspan></text>
+     y="89">Planungsphase.</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -215,6 +221,7 @@
      id="tspan4094"
      x="40.224998"
      y="412">Andere werden</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -225,6 +232,7 @@
      id="tspan4098"
      x="77.835808"
      y="428.5">gerade</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -235,26 +243,29 @@
      id="tspan4102"
      x="56.046696"
      y="445">umgesetzt.</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="430"
+   x="452.91318"
    y="384"
    id="text4104"><tspan
      sodipodi:role="line"
      id="tspan4106"
-     x="430"
-     y="384">Und einige kann man bereits</tspan></text>
+     x="452.91318"
+     y="384">Und in einige kann man</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="517.18237"
+   x="473.37668"
    y="398"
    id="text4108"><tspan
      sodipodi:role="line"
      id="tspan4110"
-     x="517.18237"
-     y="398">Einziehen.</tspan></text>
+     x="473.37668"
+     y="398">Bereits Einziehen.</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -265,46 +276,51 @@
      id="tspan4114"
      x="435.5275"
      y="431">Kann ich denn nicht</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="451.57428"
-   y="448"
+   x="451.56351"
+   y="447"
    id="text4116"><tspan
      sodipodi:role="line"
      id="tspan4118"
-     x="451.57428"
-     y="448">einfach zu einer</tspan></text>
+     x="451.56351"
+     y="447">einfach zu einer</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="456.30624"
-   y="465"
+   x="456.2955"
+   y="463"
    id="text4120"><tspan
      sodipodi:role="line"
      id="tspan4122"
-     x="456.30624"
-     y="465">Webseite gehen </tspan></text>
+     x="456.2955"
+     y="463">Webseite gehen </tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="459.63708"
-   y="482"
+   x="441.19308"
+   y="479"
    id="text4124"><tspan
      sodipodi:role="line"
      id="tspan4126"
-     x="459.63708"
-     y="482">und -schwups- </tspan></text>
+     x="441.19308"
+     y="479">und mein Computer</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="473.66278"
-   y="499"
+   x="473.61981"
+   y="511"
    id="text4128"><tspan
      sodipodi:role="line"
      id="tspan4130"
-     x="473.66278"
-     y="499">ein Server?</tspan></text>
+     x="473.61981"
+     y="511">ein Server?</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -315,6 +331,7 @@
      id="tspan4134"
      x="137.16245"
      y="703">Nein, es ist vor-</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -325,6 +342,7 @@
      id="tspan4138"
      x="148.26436"
      y="717.75">zuziehen einen</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -335,6 +353,7 @@
      id="tspan4142"
      x="133.09561"
      y="732.5">zweiten Computer</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -345,6 +364,7 @@
      id="tspan4146"
      x="168.38036"
      y="747.25">als Server</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -355,6 +375,7 @@
      id="tspan4150"
      x="154"
      y="762">Einzurichten.</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -365,6 +386,7 @@
      id="tspan4154"
      x="563.84467"
      y="711">Das benötigt etwas</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -375,6 +397,7 @@
      id="tspan4158"
      x="567.90027"
      y="727.79999">Arbeit, aber es ist</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -385,6 +408,7 @@
      id="tspan4162"
      x="577.01367"
      y="744.59998">eine angemessene</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -395,6 +419,7 @@
      id="tspan4166"
      x="574.10022"
      y="761.40002">Option für leute,</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -405,6 +430,7 @@
      id="tspan4170"
      x="608.57043"
      y="778.20001">die diesen</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -415,4 +441,15 @@
      id="tspan4174"
      x="563.599"
      y="795">Pioniergeist haben.</tspan></text>
+
+<text
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13"
+   x="452.28299"
+   y="495"
+   id="text5906"><tspan
+     sodipodi:role="line"
+     id="tspan5908"
+     x="452.28299"
+     y="495">wird -schwups-</tspan></text>
 </svg>
