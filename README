@@ -37,8 +37,7 @@ its README file.
 en-US and de-DE
 ---------------
 Contain the SVG files used to construct the PDF for
-the corresponding language version, individual JPG files,
-and dsn-comic.pdf (the large result file)
+the corresponding language version.
 
 website-en-US
 -------------
