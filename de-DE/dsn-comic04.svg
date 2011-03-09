@@ -28,15 +28,15 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1280"
-   inkscape:window-height="976"
+   inkscape:window-width="1400"
+   inkscape:window-height="1013"
    id="namedview103"
    showgrid="false"
-   inkscape:zoom="2"
-   inkscape:cx="536.53992"
-   inkscape:cy="192.2379"
-   inkscape:window-x="-3"
-   inkscape:window-y="-3"
+   inkscape:zoom="1.4142136"
+   inkscape:cx="420.61579"
+   inkscape:cy="39.341313"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg2" /><metadata
    id="metadata107"><rdf:RDF><cc:Work
@@ -145,7 +145,7 @@
    x="0"
    y="0" /><rect
    style="fill:#ffffff;stroke:#000000;stroke-width:2.49679995"
-   x="498.957"
+   x="501.07831"
    y="32.777"
    width="245.006"
    height="61.589001"
@@ -212,6 +212,7 @@
    x="55.398399"
    y="49.603001" />
 
+
 <rect
    style="fill:none"
    x="502.31699"
@@ -262,6 +263,7 @@
 
 
 
+
 <text
    id="text4387"
    y="230.5"
@@ -273,6 +275,7 @@
      x="33"
      id="tspan4389"
      sodipodi:role="line">Roberta</tspan></text>
+
 
 
 
@@ -291,6 +294,7 @@
 
 
 
+
 <text
    id="text4395"
    y="178"
@@ -301,6 +305,7 @@
      x="139.5"
      id="tspan4397"
      sodipodi:role="line">Tuan</tspan></text>
+
 
 
 
@@ -325,6 +330,7 @@
 
 
 
+
 <text
    id="text4403"
    y="212.5"
@@ -336,6 +342,7 @@
      id="tspan4405"
      sodipodi:role="line"
      style="font-size:10">Mutter</tspan></text>
+
 
 
 
@@ -355,6 +362,7 @@
 
 
 
+
 <text
    id="text4411"
    y="87.5"
@@ -365,6 +373,7 @@
      x="451.5"
      id="tspan4413"
      sodipodi:role="line">Maria</tspan></text>
+
 
 
 
@@ -384,6 +393,7 @@
 
 
 
+
 <text
    id="text4419"
    y="259.5"
@@ -398,6 +408,7 @@
 
 
 
+
 <text
    id="text4423"
    y="246"
@@ -408,6 +419,7 @@
      x="652"
      id="tspan4425"
      sodipodi:role="line">Vater</tspan></text>
+
 
 
 
@@ -427,6 +439,7 @@
 
 
 
+
 <text
    transform="matrix(1,-0.36396871,0,1,0,0)"
    id="text4431"
@@ -439,6 +452,7 @@
      x="581"
      id="tspan4433"
      sodipodi:role="line">Server</tspan></text>
+
 
 
 
@@ -464,6 +478,7 @@
 
 
 
+
 <text
    transform="matrix(1,-0.36396871,0,1,0,0)"
    id="text4441"
@@ -485,6 +500,7 @@
 
 
 
+
 <text
    id="text4447"
    y="799.5"
@@ -496,6 +512,7 @@
      y="799.5"
      x="521.5"
      sodipodi:role="line">Tuans Server</tspan></text>
+
 
 
 
@@ -525,16 +542,18 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="42.5"
-   y="45.5"
+   x="70.784271"
+   y="44.792892"
    id="text4226"><tspan
      sodipodi:role="line"
      id="tspan4228"
-     x="42.5"
-     y="45.5">Die Illusion ist, dass du direkt</tspan></text>
+     x="70.784271"
+     y="44.792892">Die Illusion ist, dass du</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -545,6 +564,7 @@
      id="tspan4232"
      x="51.41"
      y="61.5">Direkt mit Tuan und all Deinen</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -555,16 +575,18 @@
      id="tspan4236"
      x="80.813515"
      y="77.5">Freunden verbunden bist.</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="541.55847"
+   x="543.67981"
    y="47"
    id="text4269"><tspan
      sodipodi:role="line"
      id="tspan4271"
-     x="541.55847"
+     x="543.67981"
      y="47">In Wirklichkeit </tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -575,16 +597,18 @@
      id="tspan4275"
      x="509.02475"
      y="60.5">verwaltet der zentrale</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="543.36755"
+   x="529.2254"
    y="74"
    id="text4277"><tspan
      sodipodi:role="line"
      id="tspan4279"
-     x="543.36755"
-     y="74">Server all Deine</tspan></text>
+     x="529.2254"
+     y="74">Server aber all Deine</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -594,7 +618,8 @@
      sodipodi:role="line"
      id="tspan4283"
      x="561.53937"
-     y="87.5">Interaktion.</tspan></text>
+     y="87.5">Interaktionen.</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -605,26 +630,29 @@
      id="tspan4287"
      x="296.5"
      y="357">Ah, und wie unter-</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="303"
+   x="288.15076"
    y="370.875"
    id="text4289"><tspan
      sodipodi:role="line"
      id="tspan4291"
-     x="303"
-     y="370.875">scheiden diese</tspan></text>
+     x="288.15076"
+     y="370.875">scheiden sich diese</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="289.5"
+   x="280.30762"
    y="384.75"
    id="text4293"><tspan
      sodipodi:role="line"
      id="tspan4295"
-     x="289.5"
-     y="384.75">vertielte sozialen</tspan></text>
+     x="280.30762"
+     y="384.75">verteilten sozialen</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -635,6 +663,7 @@
      id="tspan4299"
      x="321"
      y="398.625">Netzwerke</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -645,6 +674,7 @@
      id="tspan4303"
      x="346"
      y="412.5">davon?</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -655,6 +685,7 @@
      id="tspan4307"
      x="620.67761"
      y="358.5">Bei einem</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -665,6 +696,7 @@
      id="tspan4311"
      x="611.81415"
      y="374">verteilten</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -675,6 +707,7 @@
      id="tspan4315"
      x="610.14911"
      y="389.5">Netz gibt's</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -685,6 +718,7 @@
      id="tspan4319"
      x="640.16925"
      y="405">keine</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -695,6 +729,7 @@
      id="tspan4323"
      x="618.91748"
      y="420.5">illusion.</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -705,6 +740,7 @@
      id="tspan4327"
      x="92.33091"
      y="729.5">Du und Tuan</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -714,7 +750,8 @@
      sodipodi:role="line"
      id="tspan4331"
      x="99.823799"
-     y="747">haben Ihre</tspan></text>
+     y="747">habt eure</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -725,6 +762,7 @@
      id="tspan4335"
      x="74.172997"
      y="764.5">eigenen Server.</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -735,6 +773,7 @@
      id="tspan4348"
      x="410.72058"
      y="714.5">Tuan postet seine Nachricht</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -745,6 +784,7 @@
      id="tspan4352"
      x="401.80429"
      y="728.75">und sie geht an seinen server,</tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -755,4 +795,5 @@
      id="tspan4356"
      x="390.23901"
      y="743">nicht an einen zentralen Server.</tspan></text>
+
 </svg>

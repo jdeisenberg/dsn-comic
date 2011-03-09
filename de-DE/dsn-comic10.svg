@@ -28,15 +28,15 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1024"
-   inkscape:window-height="710"
+   inkscape:window-width="1400"
+   inkscape:window-height="1013"
    id="namedview3982"
    showgrid="false"
    inkscape:zoom="1"
    inkscape:cx="341.87143"
-   inkscape:cy="295.43183"
-   inkscape:window-x="-3"
-   inkscape:window-y="-3"
+   inkscape:cy="255.43183"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg3867" /><metadata
    id="metadata3986"><rdf:RDF><cc:Work
@@ -181,6 +181,7 @@
 
 
 
+
 <text
    transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
    id="text7226-4"
@@ -193,6 +194,7 @@
      x="651.18909"
      id="tspan7228-6"
      sodipodi:role="line">Zeit für</tspan></text>
+
 
 
 
@@ -213,6 +215,7 @@
 
 
 
+
 <text
    transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)"
    id="text7255-6"
@@ -229,6 +232,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -239,6 +243,7 @@
      id="tspan3323"
      x="28.296568"
      y="36.213459">Also verteilte soziale Netz-</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -251,6 +256,7 @@
      x="23.724607"
      y="51.911228">werke decken Privatsphäre und</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -261,6 +267,7 @@
      id="tspan3331"
      x="19.324436"
      y="67.609001">Datenbesitz ab. Wie sieht's mit</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -273,6 +280,7 @@
      x="41.156258"
      y="83.30677">Sicherheit aus, nun wo ich</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -282,7 +290,8 @@
      sodipodi:role="line"
      id="tspan3339"
      x="38.83036"
-     y="99.004539">keinen Mittelman mehr habe,</tspan></text>
+     y="99.004539">keinen Mittelsman mehr habe,</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -295,6 +304,7 @@
      x="54.049717"
      y="114.70231">der sich darum kümmert?</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -306,27 +316,30 @@
      x="397.36496"
      y="48.234272">Die Software verschlüsselt</tspan></text>
 
-<text
-   xml:space="preserve"
-   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="393.15137"
-   y="64.497726"
-   id="text3349"><tspan
-     sodipodi:role="line"
-     id="tspan3351"
-     x="393.15137"
-     y="64.497726">sämtlichen verkehr zwischen</tspan></text>
 
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="475.46472"
-   y="80.761185"
+   x="414.15137"
+   y="64.497726"
+   id="text3349"><tspan
+     sodipodi:role="line"
+     id="tspan3351"
+     x="414.15137"
+     y="64.497726">sämtlichen Datenverkehr</tspan></text>
+
+
+<text
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
+   x="431.46472"
+   y="79.761185"
    id="text3353"><tspan
      sodipodi:role="line"
      id="tspan3355"
-     x="475.46472"
-     y="80.761185">den Servern.</tspan></text>
+     x="431.46472"
+     y="79.761185">zwischen den Servern.</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -339,6 +352,7 @@
      x="550.83618"
      y="531.18823">Das Hält die Bösen</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -349,6 +363,7 @@
      id="tspan3363"
      x="568.70459"
      y="546.50885">Kerle davon ab,</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -361,6 +376,7 @@
      x="559.86298"
      y="561.82953">sich Deine Daten</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -370,7 +386,8 @@
      sodipodi:role="line"
      id="tspan3371"
      x="575.06763"
-     y="577.15015">zu Besoregen</tspan></text>
+     y="577.15015">zu Besorgen</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -383,6 +400,7 @@
      x="28.139149"
      y="698.28723">Was ist mit den sozialen Netzwerken</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -393,6 +411,7 @@
      id="tspan3379"
      x="25.334845"
      y="713.88403">die ich jetzt benutze? Ich kann nicht</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -405,6 +424,7 @@
      x="33.861992"
      y="729.48077">leben ohne Farm Wars und Mafiaville</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -415,6 +435,7 @@
      id="tspan3387"
      x="185.89523"
      y="745.07758">und...</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -427,6 +448,7 @@
      x="423.55695"
      y="697.70142">Dafür ist gesorgt. Du musst deine</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -437,6 +459,7 @@
      id="tspan3395"
      x="424.97119"
      y="711.25781">derzeitigen sozialen Netzwerke</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -449,6 +472,7 @@
      x="426.38538"
      y="726.10706">nicht aufgeben, da dienste wie</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -460,6 +484,7 @@
      x="430.62802"
      y="741.78473">Facebook Programmen erlauben</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -470,5 +495,6 @@
      id="tspan3407"
      x="493.94531"
      y="757.63397">Ihre Daten zu Lesen...</tspan></text>
+
 
 </svg>

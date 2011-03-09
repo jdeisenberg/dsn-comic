@@ -33,8 +33,8 @@
    id="namedview163"
    showgrid="false"
    inkscape:zoom="1.4142136"
-   inkscape:cx="522.11915"
-   inkscape:cy="397.24039"
+   inkscape:cx="337.27166"
+   inkscape:cy="217.52873"
    inkscape:window-x="-3"
    inkscape:window-y="-3"
    inkscape:window-maximized="1"
@@ -92,7 +92,7 @@
    id="image3102"
    x="1.5"
    y="1" /><rect
-   style="fill:#ffffff;stroke:#000000;stroke-width:2.5"
+   style="fill:#ffffff;stroke:#000000;stroke-width:2.50000000000000000"
    x="23.469"
    y="365.98401"
    width="244.48801"
@@ -110,7 +110,7 @@
 		<g
    id="g16">
 			<path
-   style="fill:none;stroke:#000000;stroke-width:2.5"
+   style="fill:none;stroke:#000000;stroke-width:2.50000000000000000"
    d="m 754.998,704.988 c 0,-30.576 -32.833,-35.985 -73.332,-35.985 -40.502,0 -73.335,4.433 -73.335,35.985 0,31.768 28.668,33.283 65.471,33.346 1.475,9.217 3.003,32.437 -14.802,48.67 0,0 29.459,-9.438 36.862,-48.796 33.703,-0.733 59.136,-5.452 59.136,-33.22 z"
    id="path18" />
 		</g>
@@ -127,7 +127,7 @@
 		<g
    id="g26">
 			<path
-   style="fill:none;stroke:#000000;stroke-width:2.5"
+   style="fill:none;stroke:#000000;stroke-width:2.50000000000000000"
    d="m 107.665,655.668 c 0,0 -15.333,21.333 -8,48.666 5.912,22.035 20.787,29.849 94.964,31.987 0.177,8.108 2.961,22.784 19.038,33.349 0,0 -7.757,-19.191 -2.86,-32.985 13.091,0.222 27.746,0.316 44.192,0.316 127.333,0 170.667,-12 170.667,-12 V 655.668 H 107.665 z"
    id="path28" />
 		</g>
@@ -143,7 +143,7 @@
 		<g
    id="g36">
 			<path
-   style="fill:none;stroke:#000000;stroke-width:2.5"
+   style="fill:none;stroke:#000000;stroke-width:2.50000000000000000"
    d="m 574.331,445.334 c 0,-45.266 -48.801,-58.302 -109,-58.302 -60.2,0 -109,11.588 -109,58.302 0,50.336 48.8,58.302 109,58.302 3.905,0 7.761,-0.05 11.56,-0.154 8.557,11.532 31.547,36.456 72.109,39.518 0,0 -39.884,-5.957 -49.334,-40.933 43.375,-4.446 74.665,-19.328 74.665,-56.733 z"
    id="path38" />
 		</g>
@@ -160,7 +160,7 @@
 		<g
    id="g46">
 			<path
-   style="fill:none;stroke:#000000;stroke-width:2.5"
+   style="fill:none;stroke:#000000;stroke-width:2.50000000000000000"
    d="m 760.998,15.336 h -324 c 0,0 -12.666,7.333 -5.333,26.667 10.402,27.427 71.333,32 161.333,32 33.37,0 60.577,-1.351 82.618,-3.371 1.179,8.931 2.907,31.075 -5.949,46.705 0,0 22.497,-20.78 26.166,-48.908 49.518,-6.321 65.165,-15.759 65.165,-15.759 V 15.336 z"
    id="path48" />
 		</g>
@@ -176,7 +176,7 @@
 		<g
    id="g56">
 			<path
-   style="fill:none;stroke:#000000;stroke-width:2.5"
+   style="fill:none;stroke:#000000;stroke-width:2.50000000000000000"
    d="m 373.667,66.336 c 0,-19.333 -30.146,-27.333 -67.333,-27.333 -37.187,0 -67.333,8 -67.333,26 0,17.298 19.822,24.952 47.144,27.229 l 22.19,64.771 -4.188,-64.012 c 0.728,0.005 1.453,0.012 2.187,0.012 37.187,0 67.333,-6 67.333,-26.667 z"
    id="path58" />
 		</g>
@@ -192,7 +192,7 @@
 		<g
    id="g66">
 			<path
-   style="fill:none;stroke:#000000;stroke-width:2.5"
+   style="fill:none;stroke:#000000;stroke-width:2.50000000000000000"
    d="m 118.958,91.002 c 66.83,0 110.708,-2.787 110.708,-40.409 0,-37.622 -12.151,-36.577 -12.151,-36.577 L 15,13.669 v 64.793 c 0,0 29.695,10.016 83.735,12.141 1.317,11.834 6.855,41.844 29.6,55.068 0,0 -13.312,-32.731 -10.083,-54.672 0.238,0 0.468,0.003 0.706,0.003 z"
    id="path68" />
 		</g>
@@ -208,6 +208,10 @@
    x="25.284201"
    y="30.696301"
    style="-inkscape-font-specification:Driftjunky13 Medium;font-family:Driftjunky13;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11" />
+
+
+
+
 
 
 <rect
@@ -240,11 +244,15 @@
    id="text123"
    x="391.7529"
    y="416.0098"><tspan
-     style="font-size:11.62220001px;font-family:Driftjunky13"
+     style="font-size:11.62220001000000025px;font-family:Driftjunky13;font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold"
      x="391.7529"
      y="416.0098"
      font-size="11.6222"
      id="tspan125">Aber was ist das</tspan></text>
+
+
+
+
 
 
 
@@ -262,7 +270,11 @@
      sodipodi:role="line"
      x="365"
      y="442.23215"
-     id="tspan3610">Tolle an &quot;verteilt&quot;?</tspan></text>
+     id="tspan3610">Tolle an „verteilt“?</tspan></text>
+
+
+
+
 
 
 
@@ -279,6 +291,10 @@
 
 
 
+
+
+
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -289,6 +305,10 @@
      id="tspan3624"
      x="411"
      y="478">von Überall...</tspan></text>
+
+
+
+
 
 
 
@@ -304,6 +324,10 @@
      y="32">Hey, Roberta, Überall</tspan></text>
 
 
+
+
+
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -314,6 +338,10 @@
      id="tspan3087"
      x="23"
      y="47.333332">sehe ich artikel</tspan></text>
+
+
+
+
 
 
 <text
@@ -328,6 +356,10 @@
      y="62.666668">über diese neue</tspan></text>
 
 
+
+
+
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -340,16 +372,24 @@
      y="78">Sache auftauchen</tspan></text>
 
 
+
+
+
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="270.8219"
-   y="60.255089"
+   x="265.87216"
+   y="60.962196"
    id="text3097"><tspan
      sodipodi:role="line"
      id="tspan3099"
-     x="270.8219"
-     y="60.255089">Welches</tspan></text>
+     x="265.87216"
+     y="60.962196">Über was</tspan></text>
+
+
+
+
 
 
 <text
@@ -361,7 +401,11 @@
      sodipodi:role="line"
      id="tspan3103"
      x="251.73001"
-     y="76.518539">Ding, Frank?</tspan></text>
+     y="76.518539">denn, Frank?</tspan></text>
+
+
+
+
 
 
 <text
@@ -373,7 +417,11 @@
      sodipodi:role="line"
      id="tspan3116"
      x="444.77017"
-     y="33.142387">Etwas was sich &quot;verteiltes</tspan></text>
+     y="33.142387">Etwas was sich „verteiltes</tspan></text>
+
+
+
+
 
 
 <text
@@ -385,7 +433,11 @@
      sodipodi:role="line"
      id="tspan3120"
      x="453.25546"
-     y="47.527164">soziales Netzwerk&quot; nennt. Ich</tspan></text>
+     y="47.527164">soziales Netzwerk“ nennt. Ich</tspan></text>
+
+
+
+
 
 
 <text
@@ -400,6 +452,10 @@
      y="64.376404">Weiss, was soziale NeTzwerke</tspan></text>
 
 
+
+
+
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -410,6 +466,10 @@
      id="tspan3128"
      x="542.35089"
      y="80.761185">Sind...</tspan></text>
+
+
+
+
 
 
 <text
@@ -424,6 +484,10 @@
      y="383.28156">Das sind Seiten wie</tspan></text>
 
 
+
+
+
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -434,6 +498,10 @@
      id="tspan3136"
      x="35.739796"
      y="401.31281">Facebook, Twitter, und</tspan></text>
+
+
+
+
 
 
 <text
@@ -448,6 +516,10 @@
      y="419.34402">Myspace</tspan></text>
 
 
+
+
+
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -458,6 +530,10 @@
      id="tspan3456"
      x="618.61255"
      y="685.4588">Kannst du</tspan></text>
+
+
+
+
 
 
 <text
@@ -472,6 +548,10 @@
      y="700.18671">mir das Mal</tspan></text>
 
 
+
+
+
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -482,6 +562,10 @@
      id="tspan3464"
      x="610.75464"
      y="714.91467">auf Deutsch </tspan></text>
+
+
+
+
 
 
 <text
@@ -496,6 +580,10 @@
      y="731.64258">erklären?</tspan></text>
 
 
+
+
+
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -505,7 +593,11 @@
      sodipodi:role="line"
      id="tspan3472"
      x="132.44188"
-     y="671.19537">Das &quot;verteilt&quot; bezieht sich</tspan></text>
+     y="671.19537">Das „verteilt“ bezieht sich</tspan></text>
+
+
+
+
 
 
 <text
@@ -517,19 +609,27 @@
      sodipodi:role="line"
      id="tspan3476"
      x="124.41042"
-     y="687.4588">darauf, wo Deine Daten wohen.</tspan></text>
+     y="687.4588">darauf, wo Deine Daten wohNen.</tspan></text>
+
+
+
+
 
 
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
-   x="137.21434"
-   y="703.72229"
+   x="106.80875"
+   y="703.0152"
    id="text3478"><tspan
      sodipodi:role="line"
      id="tspan3480"
-     x="137.21434"
-     y="703.72229">Und das Tolle ist, dass Du</tspan></text>
+     x="106.80875"
+     y="703.0152">Und das Tolle daran ist, dass Du</tspan></text>
+
+
+
+
 
 
 <text
@@ -544,6 +644,10 @@
      y="719.98572">in einem verteilten Netzwerk</tspan></text>
 
 
+
+
+
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -554,6 +658,10 @@
      id="tspan3488"
      x="169.39871"
      y="736.24915">die Kontrolle hast.</tspan></text>
+
+
+
+
 
 
 </svg>
