@@ -1,0 +1,296 @@
+[Items in square brackets are notes that are not to be translated.]
+
+[dsn-comic01.svg]
+
+[Panel 1]
+Hey, Roberta, I keep seeing articles popping up all over about this thing.
+What thing, Frank?
+
+[Panel 2]
+Something called “distributed social networks” I know what social networks are...
+
+[Panel 3]
+Those are sites like Facebook, Twitter, and MySpace.
+
+[Panel 4]
+But what’s the big deal about “distributed”? I have online friends from all over the place.
+
+[Panel 5]
+The “distributed” refers to where your data lives, and the big deal is that distributed networks put you in control.
+
+[Panel 6]
+Care to explain that in English?
+=================
+
+[dsn-comic02.svg]
+[Panel 1]
+Well, here’s how a typical social web site works. Let’s call it...
+Hmm, how about...
+
+[Panel 2]
+FriendCenter!
+
+[Panel 3]
+Not very creative, but it’ll do.
+
+[Panel 4]
+Let’s say your friend Tuan makes a post to FriendCenter.
+[in background on his computer:] It’s Pizza time!
+
+[Panel 5]
+His post goes to FriendCenter’s server.
+[face icon:] Tuan
+[computer:] Tuan’s Posts / It’s Pizza time!
+
+[Panel 6]
+Whoa! Don’t get all technical on me. What exactly is a server?
+=================
+
+[dsn-comic03.svg]
+[Panel 1]
+Just a huge computer (or a bunch of computers) that hold humongous amounts of data. It’s called a “server” because...
+
+[Panel 2]
+...when you ask the server for information, it goes into its “data kitchen” and serves up the data to you.
+
+[Panel 3]
+OK, got it. So Tuan makes a post and it goes to Friend-Center’s server.
+[label on computer: FriendCenter server]
+
+[Panel 4]
+Now when you sign on to FriendCenter...
+
+[Panel 5]
+The server sees that Tuan is in your list of friends
+[Face icon:] Frank
+[on left side of screen] Tuan’s Posts / It’s Pizza time
+[on right side of screen] Frank’s Friends / Maria Tuan Roberta
+
+[Panel 6]
+and serves Tuan’s message to you.
+=================
+
+[dsn-comic04.svg]
+[Panel 1]
+The illusion is that you are directly connected to Tuan and all your other friends.
+[face icons clockwise from top:] Maria Tuan Sister Mom Dad Frank Roberta
+
+[Panel 2]
+In reality, the central server manages all of your interactions
+[face icons clockwise from top same as in Panel 1]
+[server label:] Server
+
+[Panel 3]
+So, how are these distributed social networks different?
+With a distributed network, there’s no illusion.
+
+[Panel 4]
+Both you and Tuan have your own servers.
+[servers from left to right:] Frank’s Server / Tuan’s Server
+
+[Panel 5]
+Tuan makes his post, and it goes to his server rather than a central server.
+[on screen] Tuan’s Server / It’s Pizza time!
+=================
+
+[dsn-comic05.svg]
+[Panel 1]
+Your servers communicate directly with each other.
+[Left screen] Frank's Server / My Friends / Maria Tuan Roberta
+[Right screen] Tuan's Server / It’s Pizza time!
+
+[Panel 2]
+So that when you access your server, you see Tuan’s post.
+[Face icon] Frank
+[Left side of screen] Tuan’s Posts / It’s Pizza Time!
+[Right side of screen] Frank’s Friends / Maria Tuan Roberta
+
+[Panel 3]
+What if I’m at my cousin George’s house? How do I get to my information?
+You access your server from the web, so you can do it anywhere you have an internet onnection.
+
+[Panel 4]
+Data isn’t centralized- it’s distributed among all the users and their servers.
+[Screens clockwise from left] Maria Tuan Sister Mom Dad Frank Roberta
+
+[Panel 5]
+Which is why they call it a distributed social network.
+
+=================
+
+dsn-comic06.svg
+[Panel 1]
+That’s right! In a distributed network, all the data would not be stored in one company’s server. There’s no single company in control.
+[Screens clockwise from top left] Maria Tuan Sister Mom Dad Frank Roberta
+
+[Panel 2]
+What else makes it better?
+
+[Panel 3]
+First there’s privacy.  A centralized social network may give you only a few levels of privacy.
+[on whiteboard] Everyone / Friends of friends only / Friends
+
+[Panel 4]
+If you want to set up your own groups of friends, you’re out of luck.
+[on whiteboard] Everyone / Friends of friends only / Friends / Immediate Family  / Co-Workers/ Bowling Team
+
+[Panel 5]
+Also, FriendCenter may choose to change its privacy policies at any time...
+=================
+
+[dsn-comic07.svg]
+[Panel 1]
+...revealing information that you might not want others to see!
+
+[Panel 2]
+Yeah, I remember back in May 2010, one of the big social networks loosened up its privacy settings.
+
+[Panel 3]
+People weren’t very happy about that.
+
+[Panel 4]
+But with a distributed network, because it’s your server, you get to set up your own groups, and your privacy policy changes only when you want it to.
+[on whiteboard] Everyone / Friends of friends only / Friends / Immediate Family  / Co-Workers/ Bowling Team
+
+[Panel 5]
+So that means the people on your bowling team don’t have to get messages about things going on at the office..
+[on whiteboard] Co-Workers / Bowling Team
+
+[Panel 6]
+You also keep control of your data; it stays on your server.
+Oh, I already keep copies of all my pictures on my hard disk
+=================
+
+[dsn-comic08.svg]
+[Panel 1]
+You’d be surprised how many people don’t. In any case, when you upload a photo to a centralized network, it goes to their server.
+
+[Panel 2]
+And that means your data is subject to their terms of service. Take a look at this:
+
+[Panel 3]
+You grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with FriendCenter.
+
+[Panel 4]
+Wow. I never knew that. Gives whole new meaning to “What’s mine is yours.”
+
+[Panel 5]
+With distributed social networks, “what’s yours is yours.”
+=================
+
+[dsn-comic09.svg]
+[Panel 1]
+Wait a moment. This article says that most of these distributed networks are “open source.” Does that mean that all of my data is open to the public?
+
+[Panel 2]
+“Open Source” just means that the software that runs the server is openly available for you to look at.
+
+[Panel 3]
+So you can see how the software was written and how it works.
+
+[Panel 4]
+Well, since I’m no programmer, there’s no danger of me messing with that!
+
+[Panel 5]
+Because your pictures and posts aren’t part of the software, your data is still all yours.
+=================
+[dsn-comic10.svg]
+[Panel 1]
+So distributed social networks have privacy and data ownership covered. What about security, now that I don’t have a middleman handling it for me?
+
+[Panel 2]
+The software encrypts all the traffic among the servers.
+[on both screens] It’s [picture of pizza] time!
+
+[Panel 3]
+That keeps the bad guys from getting your data.
+
+[Panel 4]
+What about the social networks I use now? I can’t live without Farm Wars and Mafiaville and...
+
+[Panel 5]
+I got it. You don’t have to give up your current social networks. Since services like Facebook and Twitter allow programs to read data...
+=================
+
+[dsn-comic11.svg]
+[Panel 1]
+...your server will be able to access your data on your current social networks.
+[label on server] SERVER
+
+[Panel 2]
+And they will also be able to integrate your server’s data.
+[label on server] SERVER
+
+[Panel 3]
+But, of course, only if you permit them to.
+
+[Panel 4]
+This sounds great. But how come I haven’t heard of it before?
+
+[Panel 5]
+Most of the projects so far have been pretty small...
+But in summer of 2010, one project named Diaspora caught everyone’s imagination.
+That’s why you’re seeing all those articles now.
+=================
+
+[dsn-comic12.svg]
+[Panel 1]
+So, are these distributed networks ready to use right now?
+
+[Panel 2]
+Some projects are still in the planning stages.
+
+[Panel 3]
+Others are being built even as we speak.
+
+[Panel 4]
+And some are ready to move into.
+So I can’t just go to a website and -presto- my computer becomes a server?
+
+[Panel 5]
+No. It’s preferable to set up a second computer to be your server.
+
+[Panel 6]
+That takes a bit of doing, but it’s a reasonable option for people who have that pioneer spirit.
+=================
+
+[dsn-comic13.svg]
+[Panel 1]
+Well, I’m no technical wizard! What choice do I have, then?
+
+[Panel 2]
+Some projects are under way to create a computer the size of a wall plug...
+
+[Panel 3]
+...that already has the software installed to make it act as a server for distributed social networks.
+
+[Panel 4]
+For example, the Freedom Box and FooPlug.
+[first line on screen] http://wiki.debian.org/freedombox
+[second line on screen] http://foocorp.org/projects/fooplug
+
+[Panel 5]
+FooPlug? Must have been some tech guy who came up with that name!
+
+[Panel 6]
+But it does sound interesting, and I’ll definitely keep an eye out for it. Just one more thing...
+
+[Panel 7]
+Roberta, when you start using distributed social networks- will you give me a friend request?
+It’s a deal, Frank.
+=================
+
+[dsn-comic14.svg]
+What’s a Distributed Social Network?
+
+Art by Sterling Gee and Bruce Mercado
+
+Script by David Eisenberg
+
+STERLING GEE is a San franciso based illustrator who graduated from an art school with a BFA in illustration. He draws comics; both in his free time and in exchange for money.
+
+BRUCE MERCADO lives in his own deranged mind, where he comes up with ideas with for shirts for his line, “unintelligent designs.” You can find him scheming to take over the world while drinking taro milk tea. He loves women, explosions, and being so goddamn awesome.
+
+DAVID EISENBERG lives in San Jose, California with his cat, Marco Polo. David teaches computer and information technology courses at Evergreen Valley College. He also assists in a trap/neuter/release program for feral cats on campus.
+=================
+
