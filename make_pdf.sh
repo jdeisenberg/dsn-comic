@@ -1,5 +1,12 @@
 #!/bin/bash
 
+if [[ "$1" != "" ]]
+then
+	outputfile=$1
+else
+	outputfile="dsn-comic.pdf"
+fi
+
 for file in dsn-comic??.svg
 do
 	inkscape --export-pdf="${file%%.svg}.pdf" "$file"
@@ -8,7 +15,7 @@ do
 	rm "${file%%.svg}.png"
 done
 
-pdftk dsn-comic??.pdf cat output dsn-comic.pdf
+pdftk dsn-comic??.pdf cat output "$outputfile"
 
 # clean up intermediate PDF files
 for file in dsn-comic??.pdf
