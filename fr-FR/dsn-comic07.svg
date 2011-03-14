@@ -238,6 +238,7 @@
        x="270"
        id="tspan6636"
        style="text-align:center;text-anchor:middle">dévoiler !</tspan></tspan></text>
+
 </g>
 <text
    xml:space="preserve"
@@ -270,12 +271,13 @@
      x="440.30234"
      y="567.20996"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:'123Marker';-inkscape-font-specification:'123Marker Bold'"
-     id="tspan5040">- Confrères</tspan><tspan
+     id="tspan5040">- Collègues</tspan><tspan
      sodipodi:role="line"
      x="440.30234"
      y="587.20996"
      style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:'123Marker';-inkscape-font-specification:'123Marker Bold'"
      id="tspan5042">- Équipe de bowling </tspan></text>
+
 
 
 
@@ -285,16 +287,17 @@
    x="74"
    style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter6312);font-family:'123Marker';-inkscape-font-specification:'123Marker Medium'"
    xml:space="preserve"><tspan
-     style="font-size:30"
+     style="font-size:30px"
      y="716"
      x="74"
      id="tspan3847"
-     sodipodi:role="line">- Confrères</tspan><tspan
-     style="font-size:30"
+     sodipodi:role="line">- Collègues</tspan><tspan
+     style="font-size:30px"
      id="tspan3849"
-     y="766"
+     y="753.5"
      x="74"
      sodipodi:role="line">- Équipe de bowling</tspan></text>
+
 
 
 
@@ -339,6 +342,7 @@
        x="592"
        id="tspan6692"
        style="text-align:center;text-anchor:middle">paramètres de vie privée.</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -367,6 +371,7 @@
        x="230.07227"
        id="tspan6714"
        style="text-anchor:start;text-align:start">apprécié.</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -416,6 +421,7 @@
        x="579"
        id="tspan6748"
        style="text-align:center;text-anchor:middle">décides.</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -451,6 +457,7 @@
        x="179"
        id="tspan7126"
        style="text-align:center;text-anchor:middle">professionnels.</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -504,6 +511,7 @@
        y="756.57983"
        id="tspan7164"
        style="text-align:center;text-anchor:middle">sur ton serveur.</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -511,7 +519,8 @@
    y="684"
    id="text7166"><tspan
      sodipodi:role="line"
-     id="tspan7168"></tspan></text>
+     id="tspan7168" /></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -547,4 +556,5 @@
        x="665"
        id="tspan7194"
        style="text-align:center;text-anchor:middle">sur disque dur.</tspan></tspan></text>
+
 </svg>

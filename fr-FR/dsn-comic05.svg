@@ -34,7 +34,7 @@
    showgrid="false"
    inkscape:zoom="1.4142136"
    inkscape:cx="446.9271"
-   inkscape:cy="252.93967"
+   inkscape:cy="843.26081"
    inkscape:window-x="-3"
    inkscape:window-y="-3"
    inkscape:window-maximized="1"
@@ -210,6 +210,7 @@
 
 
 
+
 	<text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -238,6 +239,7 @@
        x="162.62357"
        id="tspan5671"
        style="text-align:center;text-anchor:middle">l'un avec l'autre.</tspan></tspan></text>
+
 </g><g
    id="g55">
 		<rect
@@ -274,6 +276,7 @@
 
 
 
+
 	</g><g
    id="g67">
 		<rect
@@ -295,6 +298,7 @@
 
 
 
+
 	</g><g
    id="g107">
 		<rect
@@ -307,6 +311,7 @@
 		<text
    transform="translate(365.1367,369.5225)"
    id="text111" />
+
 
 
 
@@ -355,6 +360,7 @@
        x="485.49847"
        id="tspan5777"
        style="text-align:start;text-anchor:start">serveurs.</tspan></tspan></text>
+
 </g>
 <text
    xml:space="preserve"
@@ -367,6 +373,7 @@
      x="50.91169"
      y="150.05765"
      style="font-weight:bold">Serveur de Frank</tspan></text>
+
 
 
 
@@ -386,6 +393,7 @@
      y="195.51349"
      style="font-weight:bold"
      id="tspan5675">Amis</tspan></text>
+
 
 
 
@@ -413,6 +421,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
@@ -427,27 +436,29 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
-   x="205.06097"
+   x="199.06097"
    y="275.21555"
    id="text3738"><tspan
      sodipodi:role="line"
-     id="tspan3740"
-     x="205.06097"
+     x="199.06097"
      y="275.21555"
-     style="font-weight:bold">It’s</tspan><tspan
-     sodipodi:role="line"
-     x="205.06097"
-     y="287.71555"
-     id="tspan3753"
-     style="font-weight:bold">Pizza</tspan><tspan
-     sodipodi:role="line"
-     x="205.06097"
-     y="300.21555"
      id="tspan3755"
-     style="font-weight:bold">Time!</tspan></text>
+     style="font-weight:bold">C’est</tspan><tspan
+     sodipodi:role="line"
+     x="199.06097"
+     y="287.71555"
+     style="font-weight:bold"
+     id="tspan4279">l’heure de</tspan><tspan
+     sodipodi:role="line"
+     x="199.06097"
+     y="300.21555"
+     style="font-weight:bold"
+     id="tspan4281">la pizza !</tspan></text>
+
 
 
 
@@ -458,20 +469,21 @@
    y="232.87265"
    id="text3738-2"><tspan
      sodipodi:role="line"
-     id="tspan3740-4"
      x="457.37933"
      y="232.87265"
-     style="font-size:12px;font-weight:bold">It’s</tspan><tspan
+     id="tspan3755-3"
+     style="font-size:12px;font-weight:bold">C’est</tspan><tspan
      sodipodi:role="line"
      x="457.37933"
      y="247.87265"
-     id="tspan3753-4"
-     style="font-size:12px;font-weight:bold">Pizza</tspan><tspan
+     style="font-size:12px;font-weight:bold"
+     id="tspan4270">l’heure de</tspan><tspan
      sodipodi:role="line"
      x="457.37933"
-     y="262.87262"
-     id="tspan3755-3"
-     style="font-size:12px;font-weight:bold">Time!</tspan></text>
+     y="262.87265"
+     style="font-size:12px;font-weight:bold"
+     id="tspan4272">la pizza !</tspan></text>
+
 
 
 
@@ -499,6 +511,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
@@ -510,6 +523,7 @@
      x="557.33112"
      y="204.56677"
      style="font-size:12px;font-weight:bold">Amis de Frank</tspan></text>
+
 
 
 
@@ -527,6 +541,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
@@ -538,6 +553,7 @@
      x="345.77521"
      y="476.03387"
      style="font-size:18px;font-weight:bold">Maria</tspan></text>
+
 
 
 
@@ -555,6 +571,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
@@ -566,6 +583,7 @@
      x="539.52252"
      y="522.70294"
      style="font-weight:bold">Soeur</tspan></text>
+
 
 
 
@@ -583,6 +601,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
@@ -594,6 +613,7 @@
      x="693.67175"
      y="626.64764"
      style="font-weight:bold">Père</tspan></text>
+
 
 
 
@@ -611,6 +631,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
@@ -625,6 +646,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
@@ -636,6 +658,7 @@
      x="655.48798"
      y="100.5602"
      style="font-size:18px;font-weight:bold">Frank</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -679,6 +702,7 @@
        x="154.84846"
        id="tspan5705"
        style="text-align:center;text-anchor:middle">informations ?</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -749,6 +773,7 @@
        x="217.06975"
        id="tspan5751"
        style="text-align:center;text-anchor:middle">Internet.</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -779,4 +804,5 @@
      x="649.11688"
      y="910.01056"
      id="tspan5837" /></text>
+
 </svg>

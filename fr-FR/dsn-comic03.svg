@@ -32,9 +32,9 @@
    inkscape:window-height="976"
    id="namedview3516"
    showgrid="false"
-   inkscape:zoom="1"
+   inkscape:zoom="1.4142136"
    inkscape:cx="437.27304"
-   inkscape:cy="373.95251"
+   inkscape:cy="223.58007"
    inkscape:window-x="-3"
    inkscape:window-y="-3"
    inkscape:window-maximized="1"
@@ -185,6 +185,7 @@
 
 
 
+
 	<text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -220,6 +221,7 @@
        x="104"
        id="tspan4765"
        style="text-align:center;text-anchor:middle">liste d'amis</tspan></tspan></text>
+
 </g><g
    id="g3500">
 		<rect
@@ -232,6 +234,7 @@
 		<text
    id="text3504"
    transform="translate(362.6597,735.9131)" />
+
 
 
 
@@ -269,6 +272,7 @@
 
 
 
+
 <text
    id="text3838"
    y="799"
@@ -280,6 +284,7 @@
      x="212"
      id="tspan3840"
      sodipodi:role="line">Frank</tspan></text>
+
 
 
 
@@ -299,6 +304,7 @@
 
 
 
+
 <text
    id="text3846"
    y="888"
@@ -314,6 +320,7 @@
 
 
 
+
 <text
    id="text3850"
    y="929"
@@ -322,6 +329,7 @@
    xml:space="preserve"><tspan
      id="tspan3852"
      sodipodi:role="line" /></text>
+
 
 
 
@@ -351,27 +359,29 @@
 
 
 
+
 <text
    id="text3862"
    y="911.5"
-   x="46"
+   x="44"
    style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
    xml:space="preserve"><tspan
      style="font-size:12px;font-weight:bold"
-     y="911.5"
-     x="46"
-     id="tspan3864"
-     sodipodi:role="line">It’s</tspan><tspan
-     style="font-size:12px;font-weight:bold"
-     id="tspan3866"
-     y="926.5"
-     x="46"
-     sodipodi:role="line">Pizza</tspan><tspan
-     style="font-size:12px;font-weight:bold"
      id="tspan3868"
+     y="911.5"
+     x="44"
+     sodipodi:role="line">C’est</tspan><tspan
+     style="font-size:12px;font-weight:bold"
+     y="926.5"
+     x="44"
+     sodipodi:role="line"
+     id="tspan3381">l’heure de</tspan><tspan
+     style="font-size:12px;font-weight:bold"
      y="941.5"
-     x="46"
-     sodipodi:role="line">time</tspan></text>
+     x="44"
+     sodipodi:role="line"
+     id="tspan3385">la pizza !</tspan></text>
+
 
 
 
@@ -407,6 +417,7 @@
      id="tspan4647"><tspan
        x="223.96875"
        id="tspan4649">appelle ça un serveur car...</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -454,6 +465,7 @@
        x="508.4707"
        id="tspan4679"
        style="text-align:start;text-anchor:start">que tu veux.</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -510,6 +522,7 @@
        x="20.444336"
        id="tspan4717"
        style="text-align:start;text-anchor:start">FriendCenter.</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -541,6 +554,7 @@
        x="550"
        id="tspan4739"
        style="text-align:center;text-anchor:middle">FriendCenter...</tspan></tspan></text>
+
 <text
    xml:space="preserve"
    style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
@@ -588,4 +602,13 @@
        x="376"
        id="tspan4797"
        style="text-align:center;text-anchor:middle">de Tuan.</tspan></tspan></text>
+
+<text
+   xml:space="preserve"
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Driftjunky13;-inkscape-font-specification:Driftjunky13 Medium"
+   x="-141"
+   y="811"
+   id="text3387"><tspan
+     sodipodi:role="line"
+     id="tspan3389"></tspan></text>
 </svg>
