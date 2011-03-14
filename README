@@ -9,6 +9,10 @@ pencilscans
 -----------
 Scans of the original penciling artwork.
 
+script-all.txt
+--------------
+Current text for comic, extracted from the en-US SVG files.
+
 base-jpg
 --------
 Colored and inked files that contain no text.
